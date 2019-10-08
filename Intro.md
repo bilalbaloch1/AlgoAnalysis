@@ -77,3 +77,4 @@ $ \frac{50 * 10^6 * log(10^6) instructions}{10^7 instructions per seconds} \appr
 - The advantage of merge sort is even more pronounced when we sort ten million numbers where insertion sort takes approximately 2.3 days, merge sort takes under 20 minutes. In general as the problem size increases, so does the relative advantage of merge sort.
 
 - This example shows that algorithm like computer hardware are a technology. 
+- Hence we can conclude that an inefficient algorithm can exaust a super computer and an efficent algo like merge sort can boost a slower computer.
